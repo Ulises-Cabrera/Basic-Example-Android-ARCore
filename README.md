@@ -19,17 +19,17 @@ Para la modificacion de la rotacion en la clase ArNode en el metodo setImage (no
 pose.qz() + 0.4f
 
 
-![](android/assets/qz.jpg)
+![](android/app/src/main/assets/qz.jpg)
 
 
 pose.qy() + 0.4f
 
 
-![](android/assets/qy.jpg)
+![](android/app/src/main/assets/qy.jpg)
 
 
 pose.qx() - 0.5f
 
 
-![](android/assets/qx.jpg)
+![](android/app/src/main/assets/qx.jpg)
 
